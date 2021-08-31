@@ -1,6 +1,6 @@
 {
   "name": "@webpart/process-normal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -13,6 +13,6 @@
     "url": "https://github.com/web-part/process-normal.git"
   },
   "dependencies": {
-    "@webpart/master": "^1.0.0"
+    "@webpart/master": "^2.1.2"
   }
 }
