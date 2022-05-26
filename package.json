@@ -1,7 +1,7 @@
 {
   "name": "@webpart/process-normal",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "处理标准模式的插件。",
   "main": "index.js",
   "scripts": {},
   "keywords": [],
@@ -13,6 +13,6 @@
     "url": "https://github.com/web-part/process-normal.git"
   },
   "dependencies": {
-    "@webpart/master": "^2.1.2"
+    "@webpart/master": "^2.2.2"
   }
 }
