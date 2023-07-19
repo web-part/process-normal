@@ -3,12 +3,12 @@
 *
 */
 
-const master = require('@webpart/master');
+const Master = require('@webpart/master');
 
 
 module.exports = function (mode, website) {
-    const JsLink = master.require('JsLink');
-    const Lines = master.require('Lines');
+    const JsLink = Master.require('JsLink');
+    const Lines = Master.require('Lines');
 
 
     website.on('parse', {
